@@ -14,15 +14,15 @@
       "irc": "irc://irc.freenode.org/director"
     },
     "require": {
-      "symfony/console": "2.6.4",
-      "symfony/yaml": "2.6.4",
-      "symfony/filesystem": "3.0.*@dev",
+      "symfony/console": "~2.6",
+      "symfony/yaml": "~2.6",
+      "symfony/filesystem": "~3.0",
       "symfony/http-kernel": "*",
       "symfony/config": "*",
-      "symfony/process": ">=2.3",
-      "symfony/event-dispatcher": ">=2.3",
-      "cpliakas/git-wrapper": "1.4.1",
-      "teqneers/php-stream-wrapper-for-git": "1.0.0"
+      "symfony/process": "~2.3",
+      "symfony/event-dispatcher": "~2.3",
+      "cpliakas/git-wrapper": "~1.4",
+      "teqneers/php-stream-wrapper-for-git": "~1.0"
     },
     "suggest": {
       "opendevshop/devmaster": "Provides the web control panel for DevShop."
