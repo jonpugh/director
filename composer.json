@@ -24,9 +24,6 @@
       "cpliakas/git-wrapper": "~1.4",
       "teqneers/php-stream-wrapper-for-git": "~1.0"
     },
-    "suggest": {
-      "opendevshop/devmaster": "Provides the web control panel for DevShop."
-    },
     "autoload": {
       "psr-0": {
         "": "src/"
